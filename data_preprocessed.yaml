@@ -1,0 +1,6 @@
+train: /content/SAR-Ship-Dataset/ship_dataset_preprocessed/train/images
+val: /content/SAR-Ship-Dataset/ship_dataset_preprocessed/validation/images
+
+# number classes
+nc: 1
+names: ['Ship']

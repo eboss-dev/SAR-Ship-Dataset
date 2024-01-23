@@ -1,1 +1,6 @@
+train: /content/SAR-Ship-Dataset/ship_dataset_leefilter/train/images
+val: /content/SAR-Ship-Dataset/ship_dataset_leefilter/validation/images
 
+# number classes
+nc: 1
+names: ['Ship']

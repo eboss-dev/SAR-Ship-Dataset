@@ -1,5 +1,6 @@
 train: /content/SAR-Ship-Dataset/ship_dataset_waveletfilter/train/images
 val: /content/SAR-Ship-Dataset/ship_dataset_waveletfilter/validation/images
+test: /content/SAR-Ship-Dataset/ship_dataset_waveletfilter/test/images
 
 # number classes
 nc: 1

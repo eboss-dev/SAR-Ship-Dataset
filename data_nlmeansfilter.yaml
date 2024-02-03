@@ -1,5 +1,6 @@
 train: /content/SAR-Ship-Dataset/ship_dataset_nlmeansfilter/train/images
 val: /content/SAR-Ship-Dataset/ship_dataset_nlmeansfilter/validation/images
+test: /content/SAR-Ship-Dataset/ship_dataset_nlmeansfilter/test/images
 
 # number classes
 nc: 1

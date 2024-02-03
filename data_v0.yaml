@@ -1,5 +1,5 @@
 train: /content/SAR-Ship-Dataset/ship_dataset_v0/train/images
-#val: /content/SAR-Ship-Dataset/ship_dataset_v0/validation/images
+val: /content/SAR-Ship-Dataset/ship_dataset_v0/validation/images
 
 # number classes
 nc: 1
